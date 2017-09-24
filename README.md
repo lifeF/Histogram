@@ -19,4 +19,4 @@ chart printed on the terminal.
 
 usage: `histogram [-l length] [-w | -c] [--scaled] filename1 filename2 ..`\
 
-![Screenshot](screenshot.png)
+![Screenshot](S.png)
