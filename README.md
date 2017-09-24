@@ -17,4 +17,9 @@ chart printed on the terminal.
 
 ## Usage
 
-usage: `histogram [-l length] [-w | -c] [--scaled] filename1 filename2 ..`
+usage: `histogram [-l length] [-w | -c] [--scaled] filename1 filename2 ..`\
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com" width="350"/>
+  
+</p>
